@@ -1,0 +1,2 @@
+# AppleBedTimeCircularSlider
+iPhone標準搭載のアラーム内にある、睡眠スケジュールを調整できる円形スライダーを作成するサンプルコード
